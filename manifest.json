@@ -1,0 +1,38 @@
+{
+  "background_color": "#000000",
+  "display": "standalone",
+  "lang": "en",
+  "name": "ali2320",
+  "short_name": "ali2320",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "landscape",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.cjtaylormade.ali2320"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.cjtaylormade.ali2320",
+      "id": "com.cjtaylormade.ali2320"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
